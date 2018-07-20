@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringCloudCluster:war">
+    <output-path>$PROJECT_DIR$/SpringCloudCluster/target</output-path>
+    <root id="archive" name="SpringCloudCluster.war">
+      <element id="artifact" artifact-name="SpringCloudCluster:war exploded" />
+    </root>
+  </artifact>
+</component>
